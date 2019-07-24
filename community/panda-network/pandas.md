@@ -12,7 +12,6 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 ## Telegram Introduction
 | **Introduction** | User |
 | :--- | :--- |
-| The current focus is on seed and private rounds. We intend to complete the raise and be liquid by Q3 | <a href='https://t.me/HelisCM' target='_blank'>@HelisCM</a> |
 | Hi Everyone, I am alex, I love pandas, my boys and crypto currencies. Will definitly try to get updated with DeFi from now one. | <a href='https://t.me/aorfevrebr' target='_blank'>@aorfevrebr</a> |
 | Maks, CBDO at CryptoDiffer. I am very excited about Helis Network and that is why I am here. Looking forward to meeting new people and sharing ideas and info about the project. | <a href='https://t.me/makscryptodiffer' target='_blank'>@makscryptodiffer</a> |
 | My name is Vladyslav, I am Co-Founder and CFO at CryptoDiffer. I am in the industry for a long time and have invested in tons of projects. I like the vision and the idea of your project. Great job! | <a href='https://t.me/SkakunSkakunSkakun' target='_blank'>@SkakunSkakunSkakun</a> |
@@ -41,15 +40,11 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | Hi I'm Pablo from France. It's a pleasure to be in this community. Interested in crypto and investment I hope to touch the moon with this project 😉 Keep in touch | <a href='https://t.me/pablofrd' target='_blank'>@pablofrd</a> |
 | Hi friends, my name is Basil, I really like pandas and cryptocurrencies, they look very cool together. I wish you all a good participation in this interesting project! | <a href='https://t.me/Baz_Bazich' target='_blank'>@Baz_Bazich</a> |
 | Hello everyone....Im Tim and i'm a cryptocurrency enthusiast and i'm here to learn and share with you.good luck to all and good prizes come for sure | <a href='https://t.me/Timetosome' target='_blank'>@Timetosome</a> |
-| i'm a airdrop/bounty hunter,i like sharing any airdrop/bounty on my socialmedia account,please check my twitter for detail. follow my twitter to 👍😁 | <a href='https://t.me/Crypto_less' target='_blank'>@Crypto_less</a> |
 | Hi im very excited to be here and to learn more about Panda. I hope to share with others as im discovering new things. I just got started with crypto about a year or so ago. Happy to be here | Anonymous |
 | Hello, my name is Yves sossoukpe, im beninese and im 27, im Heard about helis panda will be a perfect project to future | <a href='https://t.me/richardchris09' target='_blank'>@richardchris09</a> |
 | I am YALDIA Emmanuel from Burkina Faso in West Africa, I'm student and have passion for cryptos. I would like to have a carrier in that world | <a href='https://t.me/Yaaldii' target='_blank'>@Yaaldii</a> |
-| Hello, my name is Bastien francois , im frenche and im 40, im Heard about helis panda will be a perfect project to future | <a href='https://t.me/bastien59880' target='_blank'>@bastien59880</a> |
-| 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 | <a href='https://t.me/Brain_Overflow' target='_blank'>@Brain_Overflow</a> |
 | Hi, I'm new to doing the crypto currency drops. Lost a night of sleep trying to figure it out. Still haven't done it yet and any help would be appreciated! | <a href='https://t.me/yahyeeeeet' target='_blank'>@yahyeeeeet</a> |
 | Hello, my name is Matthias and I got infected by the Bitcoin hype.  I've found that Blockchain can solve an awful lot of problems and I want to help explain it to other people.  I like your project very well. Efficiency is very important in our time. Savings in personnel management are a good start. | <a href='https://t.me/DerDegenBrennt' target='_blank'>@DerDegenBrennt</a> |
-| Nazywam się Adam mam 39 lat i jestem zainteresowany tym airdropem  jestem bardzo ciekawy jak rozwinie się w przyszłości i czy utrzyma się czy jak wiele innych upadnie | <a href='https://t.me/Adam1pl' target='_blank'>@Adam1pl</a> |
 | My name is Amr Mohamed I am new in the world of encryption and digital currency and I entered this field for love and conviction and I expect that digital currency is the future of money in modern times | <a href='https://t.me/amromohamed190' target='_blank'>@amromohamed190</a> |
 | excellent project with a view to the future, I am very anxious to wait for the final result of this great work congratulations to all the members | <a href='https://t.me/partner1' target='_blank'>@partner1</a> |
 | Am Bismark a crypto addict and lover...love to invest in ico..I would be happy to know guys out there...can't wait for this new project...new friends are welcome | <a href='https://t.me/cryptoninvest' target='_blank'>@cryptoninvest</a> |
@@ -59,9 +54,5 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | Hello I'm THiEuM and I love the crypto world!!! I'm alway looking for to find good cryto project because I'm an investisor. | <a href='https://t.me/THiEuMATB' target='_blank'>@THiEuMATB</a> |
 | I’m 40 years old and crypto-enthousiast from 5 years, after buy bitcoin i like airdrop and participate in specific ico. | <a href='https://t.me/cedricterrier' target='_blank'>@cedricterrier</a> |
 | Hi i'm Lucas Godin i'm interressed about crypto since 4 years. I'm from France and yeah i think it's all ! Have a good day ! | <a href='https://t.me/Softfiire' target='_blank'>@Softfiire</a> |
-| I'm lufi from singapore I find this Bot when I was searching for a new trading all my hopes that I could Invest in this great project | <a href='https://t.me/qlufi' target='_blank'>@qlufi</a> |
 | Hi, I'm Mat, a crypto addict which started to invest in 2017. I'm looking for projects with high potential. The bull run is coming and I'm gonna be rich ;) | <a href='https://t.me/NegativeMat' target='_blank'>@NegativeMat</a> |
-| I'm David, I like most crypto related projects and I've come for the zuckbucks :) looking forward to learning about the Helis Network and what youre trying to achieve | <a href='https://t.me/DavidInsights' target='_blank'>@DavidInsights</a> |
-| Loving this Panda! I strategise at Helis, excited to be part of this journey a d this community. Go Panda! | <a href='https://t.me/aharar' target='_blank'>@aharar</a> |
-| Pe ey | Anonymous |
 | My name is roberio, I'm 23 years old, I'm a student of psychology. I love to play soccer, my team is corinthians | <a href='https://t.me/roberio120' target='_blank'>@roberio120</a> |
