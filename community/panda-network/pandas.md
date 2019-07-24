@@ -60,4 +60,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 ## Post DeFi News
 | **News** | User |
 | :--- | :--- |
-| https://menafn.com/1098795464/India-A-New-Voyage-in-the-Decentralized-Realm-of-Blockchain-Dedonation | <a href='https://t.me/[object Object]' target='_blank'>@[object Object]</a> |
+| https://menafn.com/1098795464/India-A-New-Voyage-in-the-Decentralized-Realm-of-Blockchain-Dedonation | <a href='https://t.me/ysh1n' target='_blank'>@ysh1n</a> |
