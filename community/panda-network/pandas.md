@@ -42,7 +42,7 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | Hi friends, my name is Basil, I really like pandas and cryptocurrencies, they look very cool together. I wish you all a good participation in this interesting project! | <a href='https://t.me/Baz_Bazich' target='_blank'>@Baz_Bazich</a> |
 | Hello everyone....Im Tim and i'm a cryptocurrency enthusiast and i'm here to learn and share with you.good luck to all and good prizes come for sure | <a href='https://t.me/Timetosome' target='_blank'>@Timetosome</a> |
 | i'm a airdrop/bounty hunter,i like sharing any airdrop/bounty on my socialmedia account,please check my twitter for detail. follow my twitter to 👍😁 | <a href='https://t.me/Crypto_less' target='_blank'>@Crypto_less</a> |
-| Hi im very excited to be here and to learn more about Panda. I hope to share with others as im discovering new things. I just got started with crypto about a year or so ago. Happy to be here | <a href='https://t.me/N/A' target='_blank'>@N/A</a> |
+| Hi im very excited to be here and to learn more about Panda. I hope to share with others as im discovering new things. I just got started with crypto about a year or so ago. Happy to be here | Anonymous |
 | Hello, my name is Yves sossoukpe, im beninese and im 27, im Heard about helis panda will be a perfect project to future | <a href='https://t.me/richardchris09' target='_blank'>@richardchris09</a> |
 | I am YALDIA Emmanuel from Burkina Faso in West Africa, I'm student and have passion for cryptos. I would like to have a carrier in that world | <a href='https://t.me/Yaaldii' target='_blank'>@Yaaldii</a> |
 | Hello, my name is Bastien francois , im frenche and im 40, im Heard about helis panda will be a perfect project to future | <a href='https://t.me/bastien59880' target='_blank'>@bastien59880</a> |
@@ -63,5 +63,5 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | Hi, I'm Mat, a crypto addict which started to invest in 2017. I'm looking for projects with high potential. The bull run is coming and I'm gonna be rich ;) | <a href='https://t.me/NegativeMat' target='_blank'>@NegativeMat</a> |
 | I'm David, I like most crypto related projects and I've come for the zuckbucks :) looking forward to learning about the Helis Network and what youre trying to achieve | <a href='https://t.me/DavidInsights' target='_blank'>@DavidInsights</a> |
 | Loving this Panda! I strategise at Helis, excited to be part of this journey a d this community. Go Panda! | <a href='https://t.me/aharar' target='_blank'>@aharar</a> |
-| Pe ey | <a href='https://t.me/N/A' target='_blank'>@N/A</a> |
+| Pe ey | Anonymous |
 | My name is roberio, I'm 23 years old, I'm a student of psychology. I love to play soccer, my team is corinthians | <a href='https://t.me/roberio120' target='_blank'>@roberio120</a> |
