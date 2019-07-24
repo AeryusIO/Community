@@ -6,8 +6,8 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 
 | **Activities** | 🐼points |
 | :--- | :--- |
-| [Telegram Introduction](pandas.md#telegram-introduction) | 4  |
-| [Post DeFi news](pandas.md#post-defi-news) | 2  |
+| [Telegram Introduction](pandas.md#telegram-introduction) | 4 |
+| [Post DeFi news](pandas.md#post-defi-news) | 2 |
 
 ## Telegram Introduction
 | **Introduction** | User |
@@ -56,3 +56,8 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | Hi i'm Lucas Godin i'm interressed about crypto since 4 years. I'm from France and yeah i think it's all ! Have a good day ! | <a href='https://t.me/Softfiire' target='_blank'>@Softfiire</a> |
 | Hi, I'm Mat, a crypto addict which started to invest in 2017. I'm looking for projects with high potential. The bull run is coming and I'm gonna be rich ;) | <a href='https://t.me/NegativeMat' target='_blank'>@NegativeMat</a> |
 | My name is roberio, I'm 23 years old, I'm a student of psychology. I love to play soccer, my team is corinthians | <a href='https://t.me/roberio120' target='_blank'>@roberio120</a> |
+
+## Post DeFi News
+| **News** | User |
+| :--- | :--- |
+| https://menafn.com/1098795464/India-A-New-Voyage-in-the-Decentralized-Realm-of-Blockchain-Dedonation | <a href='https://t.me/[object Object]' target='_blank'>@[object Object]</a> |
