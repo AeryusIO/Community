@@ -12,7 +12,6 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 ## Telegram Introduction
 | **Introduction** | User |
 | :--- | :--- |
-
 | The current focus is on seed and private rounds. We intend to complete the raise and be liquid by Q3 | HelisCM |
 | Hi Everyone, I am alex, I love pandas, my boys and crypto currencies. Will definitly try to get updated with DeFi from now one. | aorfevrebr |
 | Maks, CBDO at CryptoDiffer. I am very excited about Helis Network and that is why I am here. Looking forward to meeting new people and sharing ideas and info about the project. | makscryptodiffer |
