@@ -18,6 +18,7 @@
 * [Frequently Asked Questions](community/frequently-asked-questions.md)
 * [Panda Network 🐼](community/panda-network/README.md)
   * [Tasks](community/panda-network/tasks.md)
+  * [Pandas](community/panda-network/pandas.md)
 * [Memes](community/memes.md)
 * [Community Beta Program](community/community-beta-program.md)
 
@@ -30,4 +31,3 @@
 * [Staking](token/staking.md)
 * [Allocation](token/allocation.md)
 * [Utility](token/utility.md)
-
