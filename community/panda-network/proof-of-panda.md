@@ -70,9 +70,9 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 ## Dank memes
 | **Meme** | User |
 | :--- | :--- |
-| ![](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-517752455201907251707.mp4) | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
+| ![img](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-517752455201907251707.mp4) | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
 
 ## Proof Of Love
 | **Love** | User |
 | :--- | :--- |
-| ![](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-517752455201907251707.mp4) | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
+| ![img](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-517752455201907251707.mp4) | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
