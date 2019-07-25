@@ -18,7 +18,7 @@
 * [Frequently Asked Questions](community/frequently-asked-questions.md)
 * [Panda Network 🐼](community/panda-network/README.md)
   * [Tasks](community/panda-network/tasks.md)
-  * [Pandas](community/panda-network/pandas.md)
+  * [Proof of Panda](community/panda-network/proof-of-panda.md)
 * [Memes](community/memes.md)
 * [Community Beta Program](community/community-beta-program.md)
 
