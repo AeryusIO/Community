@@ -76,3 +76,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | **Love** | User |
 | :--- | :--- |
 | ![img](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-517752455201907251707.mp4) | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
+| ![img](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/dankmeme-359774701201907251707.webp) | <a href='https://t.me/aorfevrebr' target='_blank'>@aorfevrebr</a> |
