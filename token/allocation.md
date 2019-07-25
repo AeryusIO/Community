@@ -31,12 +31,12 @@ An overview of how we plan to allocate our token supply is broken down below:
     </tr>
     <tr>
       <td style="text-align:left">Private Round 1</td>
-      <td style="text-align:left">20,000,000 HELIS (7.33%)</td>
+      <td style="text-align:left">20,000,000 HELIS (6.7%)</td>
       <td style="text-align:left">Bonded tokens subject to 20% bridge fee</td>
     </tr>
     <tr>
       <td style="text-align:left">Private Round 2</td>
-      <td style="text-align:left">20,000,000 HELIS (7.33%)</td>
+      <td style="text-align:left">20,000,000 HELIS (6.7%)</td>
       <td style="text-align:left">Bonded tokens subject to 25% bridge fee</td>
     </tr>
     <tr>
