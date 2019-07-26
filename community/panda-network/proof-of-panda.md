@@ -67,4 +67,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | https://www.forbes.com/sites/biserdimitrov/2019/07/24/3-stablecoins-enterprise-executives-need-to-know-and-why/#515d124637d8 | <a href='https://t.me/aorfevrebr' target='_blank'>@aorfevrebr</a> |
 | https://dailyhodl.com/2019/07/24/from-binance-to-eos-to-stellar-finance-apps-are-breaking-out-beyond-ethereum/ | <a href='https://t.me/ysh1n' target='_blank'>@ysh1n</a> |
 
-{% embed url='https://drive.google.com/open?id=1w52Ienyp2ucNMlx9T-uZK_PsetBJtx5v' caption="airdropfrenchie"%} 
+{% embed url='https://drive.google.com/open?id=1w52Ienyp2ucNMlx9T-uZK_PsetBJtx5v' caption="@airdropfrenchie"%} 
