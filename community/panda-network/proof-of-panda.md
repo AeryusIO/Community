@@ -70,4 +70,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 ## Proof Of Love
 | **Love** | User |
 | :--- | :--- |
-| {% embed url="https://drive.google.com/open?id=1w52Ienyp2ucNMlx9T-uZK_PsetBJtx5v"%} | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
+| {% embed url="https://drive.google.com/open?id=1w52Ienyp2ucNMlx9T-uZK_PsetBJtx5v" %} | <a href='https://t.me/airdropfrenchie' target='_blank'>@airdropfrenchie</a> |
