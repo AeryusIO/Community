@@ -8,6 +8,7 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | :--- | :--- |
 | [Telegram Introduction](proof-of-panda.md#telegram-introduction) | 4 |
 | [Post DeFi news](proof-of-panda.md#post-defi-news) | 2 |
+| [Proof Of Love](proof-of-panda.md#proof-of-love) | |
 
 ## Telegram Introduction
 | **Introduction** | User |
@@ -65,3 +66,6 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | http://fintechnews.sg/32419/infographic/fintech-infographic-of-the-week-making-investing-more-accessible-with-decentralized-finance/ | <a href='https://t.me/SkakunSkakunSkakun' target='_blank'>@SkakunSkakunSkakun</a> |
 | https://www.forbes.com/sites/biserdimitrov/2019/07/24/3-stablecoins-enterprise-executives-need-to-know-and-why/#515d124637d8 | <a href='https://t.me/aorfevrebr' target='_blank'>@aorfevrebr</a> |
 | https://dailyhodl.com/2019/07/24/from-binance-to-eos-to-stellar-finance-apps-are-breaking-out-beyond-ethereum/ | <a href='https://t.me/ysh1n' target='_blank'>@ysh1n</a> |
+
+## Proof Of Love
+{% embed url='https://drive.google.com/file/d/1AjCOog9v0cB0j-QgytKQw9bM3B6HtQTv/view?usp=sharing' caption="https://t.me/aorfevrebr"%} 
