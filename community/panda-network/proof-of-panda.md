@@ -69,3 +69,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 
 ## Proof Of Love
 {% embed url='https://drive.google.com/file/d/1_zbDjpUJ18PWaKUjd0vD8603cuHQb3Qw/view?usp=sharing' caption="https://t.me/aorfevrebr"%} 
+{% embed url='https://drive.google.com/file/d/13v9UKJc2QOhsizJGmAfMHXhCvXq-TkXk/view?usp=sharing' caption="https://t.me/airdropfrenchie"%} 
