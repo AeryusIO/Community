@@ -72,3 +72,5 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 
 ![https://t.me/airdropfrenchie](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/proofoflove-517752455201907261307.webp) 
 
+{% embed url='https://drive.google.com/file/d/1lsTRqoimjzUhEzEwzFlHNBv4zBGfaucY/view?usp=sharing' caption="https://t.me/airdropfrenchie"%} 
+
