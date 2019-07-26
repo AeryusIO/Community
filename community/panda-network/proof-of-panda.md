@@ -69,4 +69,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 
 ## Proof Of Love
 ![https://t.me/airdropfrenchie](https://airdropers.s3.us-east-2.amazonaws.com/helisnetwork/proofoflove-517752455201907261307.webp) 
-![https://t.me/airdropfrenchie](https://drive.google.com/open?id=proofoflove-517752455201907261307.webp) 
+{% embed url='https://drive.google.com/open?id=proofoflove-517752455201907261307.webp' caption="https://t.me/airdropfrenchie"%} 
