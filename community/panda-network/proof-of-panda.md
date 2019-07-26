@@ -68,4 +68,4 @@ description: "Here 's all the proof of work approved \U0001F43Cs:"
 | https://dailyhodl.com/2019/07/24/from-binance-to-eos-to-stellar-finance-apps-are-breaking-out-beyond-ethereum/ | <a href='https://t.me/ysh1n' target='_blank'>@ysh1n</a> |
 
 ## Proof Of Love
-{% embed url='https://drive.google.com/file/d/1AjCOog9v0cB0j-QgytKQw9bM3B6HtQTv/view?usp=sharing' caption="https://t.me/aorfevrebr"%} 
+{% embed url='https://drive.google.com/file/d/1_zbDjpUJ18PWaKUjd0vD8603cuHQb3Qw/view?usp=sharing' caption="https://t.me/aorfevrebr"%} 
